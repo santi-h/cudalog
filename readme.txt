@@ -7,6 +7,7 @@ REQUIREMENTS
     > nmake
     > cl
     > CUDA > 4.0
+    > Fermi architecture GPU with compute capability > 2.0
 
 INSTALLATION
     > Invoke nmake to create the library
